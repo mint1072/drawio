@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T12:18:26.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="NaLg0fMCBINelX_ADE0G" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T12:20:01.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="lryIoSNEbgZ7dHPNdpK2" version="24.2.2" type="github">
   <diagram name="第 1 页" id="8FlMMrjvGm8YahryDWu7">
     <mxGraphModel dx="1556" dy="867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -328,11 +328,23 @@
         <mxCell id="9r69jVWmH8Fsl21gI_N_-292" value="RSOD真实" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="835" y="1044.9978260869566" width="103" height="30.65217391304348" as="geometry" />
         </mxCell>
-        <mxCell id="9r69jVWmH8Fsl21gI_N_-294" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="938" y="809" width="26" height="88" as="geometry" />
+        <mxCell id="9r69jVWmH8Fsl21gI_N_-296" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="938" y="809" width="161" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="9r69jVWmH8Fsl21gI_N_-295" value="正负样本分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="964" y="839.5" width="86" height="27" as="geometry" />
+        <mxCell id="9r69jVWmH8Fsl21gI_N_-294" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="9r69jVWmH8Fsl21gI_N_-296">
+          <mxGeometry width="26" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="9r69jVWmH8Fsl21gI_N_-295" value="正负样本分配4类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9r69jVWmH8Fsl21gI_N_-296">
+          <mxGeometry x="26" y="30.5" width="135" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9r69jVWmH8Fsl21gI_N_-297" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="948" y="968" width="162" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="9r69jVWmH8Fsl21gI_N_-298" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="9r69jVWmH8Fsl21gI_N_-297">
+          <mxGeometry width="26" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="9r69jVWmH8Fsl21gI_N_-299" value="正负样本分配4类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9r69jVWmH8Fsl21gI_N_-297">
+          <mxGeometry x="26" y="30.5" width="136" height="29.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
