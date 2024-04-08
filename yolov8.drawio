@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T07:37:48.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="bw7vpX0Dkm5Zd5WxshTb" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T07:41:04.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="2PvR_02jKWQsky7upF7H" version="24.2.2" type="github">
   <diagram name="第 1 页" id="8FlMMrjvGm8YahryDWu7">
     <mxGraphModel dx="1556" dy="867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -68,7 +68,16 @@
           <mxGeometry x="37" y="113" width="100" height="34.44" as="geometry" />
         </mxCell>
         <mxCell id="9r69jVWmH8Fsl21gI_N_-88" value="VOC" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;strokeColor=default;perimeterSpacing=0;fontFamily=Times New Roman;fontSize=12;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="26" y="172" width="100" height="34.44" as="geometry" />
+          <mxGeometry x="40" y="170" width="100" height="34.44" as="geometry" />
+        </mxCell>
+        <mxCell id="9r69jVWmH8Fsl21gI_N_-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9r69jVWmH8Fsl21gI_N_-93" target="9r69jVWmH8Fsl21gI_N_-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9r69jVWmH8Fsl21gI_N_-93" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="126" y="131" width="43" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9r69jVWmH8Fsl21gI_N_-94" value="DUO+VOC" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;strokeWidth=1;pointerEvents=1;rounded=1;shadow=0;strokeColor=default;verticalAlign=middle;arcSize=12;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="182" y="141" width="94" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
