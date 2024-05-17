@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T12:20:59.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="yI0diCs5bRz0pIxkd7O0" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-17T12:21:10.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="XD4_Lmrvau7vSJByqrjH" version="24.4.4" type="github" pages="2">
   <diagram name="第 1 页" id="8FlMMrjvGm8YahryDWu7" />
   <diagram id="XSuODEvMpG7KVAw9AEoW" name="论文框架">
     <mxGraphModel dx="1554" dy="865" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
@@ -71,7 +71,7 @@
         <mxCell id="3r45xA5qqwSHw7yx6UH--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="3r45xA5qqwSHw7yx6UH--26" target="3r45xA5qqwSHw7yx6UH--1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3r45xA5qqwSHw7yx6UH--26" value="Input" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="3r45xA5qqwSHw7yx6UH--26" value="Input" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="186" y="49" width="132" height="30" as="geometry" />
         </mxCell>
       </root>
