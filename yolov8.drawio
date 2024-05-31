@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T11:54:38.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="KXO7Ut4KYx9OVb8YiB0v" version="24.4.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-31T11:55:51.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="01kaR7z3CDksNy8OPUIs" version="24.4.10" type="github" pages="3">
   <diagram name="第 1 页" id="8FlMMrjvGm8YahryDWu7">
     <mxGraphModel dx="1369" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -1403,8 +1403,8 @@
         <mxCell id="kAAlBjWPU3Rsq1ieZF_k-88" value="特征变换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="156" y="2595" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kAAlBjWPU3Rsq1ieZF_k-91" value="$$\frac{H}{P}$$" style="text;whiteSpace=wrap;html=1;direction=east;flipH=0;flipV=0;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="354" y="2593" width="21" height="48" as="geometry" />
+        <mxCell id="kAAlBjWPU3Rsq1ieZF_k-91" value="$$H$$" style="text;whiteSpace=wrap;html=1;direction=east;flipH=0;flipV=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354" y="2603" width="21" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kAAlBjWPU3Rsq1ieZF_k-93" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;aspect=fixed;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="227" y="2579" width="96" height="96" as="geometry" />
