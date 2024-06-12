@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T13:27:32.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="q1ayL9ATwal8EQCHGn3R" version="24.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-12T13:28:12.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="n-Zv8GFPIRwLjOKgZImI" version="24.5.3" type="github" pages="3">
   <diagram name="第 1 页" id="8FlMMrjvGm8YahryDWu7">
     <mxGraphModel dx="1369" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -2188,7 +2188,7 @@
             <mxPoint x="788.9449003516999" y="87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BcIMuRfJ8FNRul9VTLtH-68" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;坐标精确&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BcIMuRfJ8FNRul9VTLtH-42">
+        <mxCell id="BcIMuRfJ8FNRul9VTLtH-68" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;坐标回归&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BcIMuRfJ8FNRul9VTLtH-42">
           <mxGeometry x="790.9730363423212" y="14" width="74.02696365767878" height="27" as="geometry" />
         </mxCell>
         <mxCell id="BcIMuRfJ8FNRul9VTLtH-69" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;分类预测&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BcIMuRfJ8FNRul9VTLtH-42">
