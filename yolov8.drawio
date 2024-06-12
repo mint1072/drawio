@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T13:05:33.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="HDmuzG94jgou3VAYL_24" version="24.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-12T13:06:10.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="LmZ-JPOVEcc88fWOdmJQ" version="24.5.3" type="github" pages="3">
   <diagram name="第 1 页" id="8FlMMrjvGm8YahryDWu7">
     <mxGraphModel dx="1369" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -2141,10 +2141,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BcIMuRfJ8FNRul9VTLtH-37" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;坐标回归&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="836" y="2707" width="109" height="29" as="geometry" />
+          <mxGeometry x="836" y="2707" width="73" height="27" as="geometry" />
         </mxCell>
         <mxCell id="BcIMuRfJ8FNRul9VTLtH-38" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;分类预测&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="836" y="2763" width="109" height="29" as="geometry" />
+          <mxGeometry x="836" y="2767" width="73" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
