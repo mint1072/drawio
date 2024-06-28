@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T08:16:34.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="8In__w-btxOti0KywyDz" version="24.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-28T08:17:15.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="HVk8Eq9FB7Ywnt6_Xw0t" version="24.6.3" type="github" pages="3">
   <diagram name="第 1 页" id="8FlMMrjvGm8YahryDWu7">
     <mxGraphModel dx="1369" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -2331,7 +2331,7 @@
             <mxPoint x="321" y="102.90908813476562" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6PX5sbAdaW75Q1GjeZLo-12" value="Bottleneck" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;opacity=80;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;size=3;" vertex="1" parent="6PX5sbAdaW75Q1GjeZLo-372">
+        <mxCell id="6PX5sbAdaW75Q1GjeZLo-12" value="&lt;font color=&quot;#000000&quot; face=&quot;Times New Roman&quot;&gt;Bottleneck&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;opacity=80;fillColor=none;strokeColor=#314354;fontColor=#ffffff;size=3;" vertex="1" parent="6PX5sbAdaW75Q1GjeZLo-372">
           <mxGeometry x="292" y="45.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6PX5sbAdaW75Q1GjeZLo-16" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;startSize=2;opacity=60;" edge="1" parent="6PX5sbAdaW75Q1GjeZLo-372">
