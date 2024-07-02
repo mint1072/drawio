@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T04:56:35.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="w4QygAtFMVhX3gZjKmRa" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-02T05:28:37.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="5gY2g9MMMtgk8ePZytLn" version="24.6.4" type="github" pages="3">
   <diagram name="第 1 页" id="8FlMMrjvGm8YahryDWu7">
     <mxGraphModel dx="1369" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -2992,8 +2992,8 @@
         <mxCell id="6PX5sbAdaW75Q1GjeZLo-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;$$conv1$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="TSoc876DXdaBlnMFXQno-3" vertex="1">
           <mxGeometry x="60" y="71" width="40.5" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="6PX5sbAdaW75Q1GjeZLo-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;$$H\times W\times C$$&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="TSoc876DXdaBlnMFXQno-3" vertex="1">
-          <mxGeometry y="28" width="67" height="36" as="geometry" />
+        <mxCell id="6PX5sbAdaW75Q1GjeZLo-23" value="$$\mathbf{F}$$" style="text;whiteSpace=wrap;html=1;" parent="TSoc876DXdaBlnMFXQno-3" vertex="1">
+          <mxGeometry x="26" y="31" width="17" height="37" as="geometry" />
         </mxCell>
         <mxCell id="6PX5sbAdaW75Q1GjeZLo-233" value="&lt;font face=&quot;Times New Roman&quot;&gt;$$chunk$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="TSoc876DXdaBlnMFXQno-3" vertex="1">
           <mxGeometry x="56.75" y="94" width="47" height="23" as="geometry" />
@@ -3379,8 +3379,8 @@
             <mxRectangle width="13" height="13" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6PX5sbAdaW75Q1GjeZLo-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;$$H\times W\times \frac{C&#39;}{2} $$&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="6PX5sbAdaW75Q1GjeZLo-359" vertex="1">
-          <mxGeometry x="1.7763568394002505e-15" y="-4" width="79.25" height="46" as="geometry" />
+        <mxCell id="TSoc876DXdaBlnMFXQno-153" value="$$\mathbf{F}_b$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="6PX5sbAdaW75Q1GjeZLo-359">
+          <mxGeometry x="27.620000000000005" y="4" width="24" height="38" as="geometry" />
         </mxCell>
         <mxCell id="6PX5sbAdaW75Q1GjeZLo-364" value="" style="group" parent="TSoc876DXdaBlnMFXQno-3" vertex="1" connectable="0">
           <mxGeometry x="109.75" y="94" width="43.629999999999995" height="43" as="geometry" />
@@ -3508,6 +3508,9 @@
               <mxPoint x="175" y="32" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TSoc876DXdaBlnMFXQno-152" value="$$\mathbf{F}_a$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="811" y="1872" width="24" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
